@@ -14,7 +14,7 @@ namespace TulikaFirstProjectSeleniumWebDriver
         public void TestMethod1()
         {
             IWebDriver strdriver = new ChromeDriver();
-            strdriver.Navigate().GoToUrl("https://www.gmail.com/");
+            strdriver.Navigate().GoToUrl("https://www.linkedin.com/");
             strdriver.Close();
            strdriver.Quit();
         }
