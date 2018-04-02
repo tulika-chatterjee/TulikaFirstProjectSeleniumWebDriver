@@ -18,6 +18,8 @@ namespace TulikaFirstProjectSeleniumWebDriver
             //this is my first clone
             strdriver.Close();
             //Added by GitExpA
+            //Added by GitExpB
+            //Some more
            strdriver.Quit();
         }
     }
