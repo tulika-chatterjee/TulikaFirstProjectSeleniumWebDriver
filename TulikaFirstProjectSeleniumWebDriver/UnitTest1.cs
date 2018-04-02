@@ -17,6 +17,7 @@ namespace TulikaFirstProjectSeleniumWebDriver
             strdriver.Navigate().GoToUrl("https://www.facebook.com/");
             //this is my first clone
             strdriver.Close();
+            //Added by GitExpA
            strdriver.Quit();
         }
     }
